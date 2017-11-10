@@ -1,0 +1,13 @@
+class Forloop 
+{
+	public static void main(String[] args) 
+	{
+		int x=20;
+		for(x=1;x<20;x+=3)
+		{
+
+		System.out.println("the value of x:" + x);
+		System.out.println("\n");
+		}
+	}
+}
